@@ -1,0 +1,29 @@
+{
+  "name": "zookeeper",
+  "version": "1.0.0",
+  "description": "Information about animals in the zoo",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnmwillard/zookeeper.git"
+  },
+  "keywords": [
+    "animals",
+    "zoo",
+    "traits",
+    "express"
+  ],
+  "author": "Shawn Willard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawnmwillard/zookeeper/issues"
+  },
+  "homepage": "https://github.com/shawnmwillard/zookeeper#readme"
+}
